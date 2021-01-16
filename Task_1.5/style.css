@@ -283,7 +283,7 @@ main {
     margin: 0px 16px 8px 10px;
   }
   .brand-slider__wrapper {
-    width: auto;
+    width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
