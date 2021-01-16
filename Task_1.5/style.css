@@ -290,9 +290,10 @@ main {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     padding: 24px 12px;
-    flex-grow: auto;
+    
   }
   .brand-slider__slide {
     max-width: 224px;
+    flex-grow: auto;
   }
 }
