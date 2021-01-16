@@ -294,7 +294,7 @@ main {
   }
   .brand-slider__slide {
     max-width: 224px;
-    flex-grow: 1;
      width: 100%;
+    height: auto;
   }
 }
